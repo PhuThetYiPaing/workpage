@@ -106,11 +106,13 @@ margin: 250px 600px 250px 144px;
 .content-container {
     padding: 160px 20px;
 }
-=======
+.content{
+  margin: 30px;
+}
+
 @media (max-width:600px) {
   .responsive{
     width: 100%;
     height: auto;
   }
 }
->>>>>>> 40b9b9f365856ac38e6a5c576db43b0b55957e9c
